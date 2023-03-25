@@ -1,1 +1,1 @@
-# odin-recipes
+This is Bernie Rohrbacher's first project in The Odin Project's Foundations course. The project consists of building a simple HTML site, and tests my knowledge of the HTML basic template, tags, lists, urls, and images.
